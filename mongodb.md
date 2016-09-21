@@ -1,3 +1,5 @@
+> from http://cheat.errtheblog.com/s/mongo
+
 CONSOLE COMMANDS
 
   help                show all the console commands (same as this section)
