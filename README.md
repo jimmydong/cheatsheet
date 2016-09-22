@@ -15,3 +15,7 @@ inspired by http://www.cheatsheets.org  &  http://www.cheat-sheets.org
 python
 
 
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
+
